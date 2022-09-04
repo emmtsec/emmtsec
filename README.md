@@ -10,6 +10,10 @@
 
 - 🌱 I’m currently learning **Penatration Testing, Python for Cyber Security, Network...**
 
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I enjoy working on
+  - 🛠 Ethical Hacking(Penatration Tester)
+  - 🐞 Bug Bounty
+
 - 💬 Ask me about **Python , LİNUX**
 
 - 📫 How to reach me **dogusturkk34@gmail.com**
