@@ -26,7 +26,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=emmtsec&theme=dark&date_format=M%20j%5B%2C%20Y%5D" /></p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmtsec&layout=compact">
-<br>
 <p><img align="left" src="hhttps://github-readme-stats.vercel.app/api/pin/?username=emmtsec&repo=github-readme-stats"></p>
-<br>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=emmtsec&theme=blue-green">
+<p><br><img align="left" src="https://github-readme-stats.vercel.app/api?username=emmtsec&theme=blue-green"></br></p>
