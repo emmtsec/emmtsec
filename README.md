@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm emmtsec</h1>
 <h3 align="center">I am interested in cyber security for Penatration Tester</h3>
 <p align="center">
-  <img width="460" height="300" src="https://cdn.kibrispdr.org/data/1781/hacker-gif-30.gif">
+  <img width="460" height="300" src="[https://cdn.kibrispdr.org/data/1781/hacker-gif-30.gif](https://www.hizliresim.com/n09l0wv)">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmtsec&label=Profile%20views&color=0e75b6&style=flat" alt="emmtsec" /> </p>
