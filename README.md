@@ -60,6 +60,7 @@ class life:
     
     """)
 
+<script src="https://tryhackme.com/badge/1537487"></script>
 ​
 ```
 
