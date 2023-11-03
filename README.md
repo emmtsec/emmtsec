@@ -8,7 +8,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmtsec" alt="emmtsec" /></a> </p>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/emmtsec.png" alt="TryHackMe">
+<img src="https://api.githubtrends.io/user/svg/emmtsec/langs?time_range=one_year&compact=True&theme=dark"> <img src="https://tryhackme-badges.s3.amazonaws.com/emmtsec.png" alt="TryHackMe">
+
 
 - 🌱 I’m currently learning **Penatration Testing, Python for Cyber Security, Network...**
 
